@@ -26,6 +26,7 @@ Pembuatan sistem ini menggunakan komponen:
 - 1 Kabel USB C
 
 Board Schematic:
-<img width="1024" height="884" alt="Screenshot 2026-04-08 125651" src="https://github.com/user-attachments/assets/33c17c00-fd23-4e6b-b703-2ac03c804190" />
+<img width="764" height="936" alt="image" src="https://github.com/user-attachments/assets/16c5abbd-a272-470f-932a-faa5228f09ed" />
+
 
 Note: Dikarenakan Wokwi tidak menyediakan komponen expansion board 30P dan sensor DHT11, board schematic dibuat semirip mungkin dengan rancangan asli menggunakan komponen alternatif yang tersedia pada platform.
